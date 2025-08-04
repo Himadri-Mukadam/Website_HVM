@@ -11,10 +11,10 @@ body{
 
 .img_class{
     position: relative;
-    width: 20%;
-    height: 47%;
+    width: 60%;
+    height: 40%;
     border-radius: 50%;
-    margin-left: 1%;
+    margin-left: 10%;
 }
 
 .navigation{
@@ -43,8 +43,8 @@ body{
 
 .sidebar{
     float: left;
-    width: 100%;
-    position: fixed;
+    width: 30%;
+    position: relative;
    
 }
 
@@ -72,7 +72,7 @@ a:link{
 }
 
 a:hover{
-    color: #b86565;
+    color: #d9adad;
 }
 
 a:visited{
