@@ -17,6 +17,22 @@ body{
     margin-left: 10%;
 }
 
+@media (max-width: 600px) {
+  img.img_class {
+    height: 20%; 
+  }
+}
+
+#name{
+    margin-left: 7%;
+}
+
+@media(max-width: 600px){
+    h3#name {
+        margin-left : -15px;
+    }
+}
+
 .navigation{
     background-color:antiquewhite;
     padding: 1% 0.5%;
